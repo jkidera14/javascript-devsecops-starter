@@ -1,0 +1,7 @@
+title = "Jonkidera JavaScript DevSecOps Starter"
+
+[extend]
+useDefault = true
+
+# Add narrowly scoped allowlists only after documenting why a match is a false positive.
+# Never allowlist broad paths such as src/** or tests/**.
